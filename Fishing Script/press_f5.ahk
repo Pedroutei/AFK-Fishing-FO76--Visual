@@ -1,0 +1,2 @@
+#UseHook
+Send("{F5}")
