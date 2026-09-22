@@ -1,5 +1,5 @@
 AFK Fishing FO76 - Visual version (no VB-Cable needed)
-
+Must use Nuka Cola Quantum Bobber
 Requirements
 - Python 3 with: pip install mss numpy
 - AutoHotkey v2 (C:\Program Files\AutoHotkey)
